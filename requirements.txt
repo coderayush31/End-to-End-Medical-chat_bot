@@ -1,0 +1,13 @@
+ctransformers==0.2.5
+flask
+pypdf
+python-dotenv
+openai
+numpy==1.26.4
+pinecone-client[grpc]
+langchain==0.3.23
+langchain-pinecone==0.2.5
+langchain_community==0.3.21
+langchain_openai==0.3.14
+langchain_experimental==0.3.4
+-e .
